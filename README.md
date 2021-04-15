@@ -1,4 +1,4 @@
-![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-js-USERNAME/workflows/GitHub%20Classroom%20Workflow/badge.svg)
+![GitHub Classroom Workflow](https://github.com/hft-stuttgart-ipr/hft-asgmt-js-MarcelJanek/workflows/GitHub%20Classroom%20Workflow/badge.svg)
 
 # hft-asgmt-js
 
@@ -7,10 +7,10 @@ DO NOT EDIT THE HTML! This is a JS only assignment.
 ## TODO
 
 - FormValidation:
-  - [ ] Listen to `keyup` event on `textarea` and on `input` or on the whole `form`
-  - [ ] Username toggles Alert box visible if username length is smaller than 3 chars
-  - [ ] Textarea toggles Alert box visible if textarea text length is smaller than 10 chars
-  - [ ] If form values are ok, alert box is hidden
+  - [X] Listen to `keyup` event on `textarea` and on `input` or on the whole `form`
+  - [X] Username toggles Alert box visible if username length is smaller than 3 chars
+  - [X] Textarea toggles Alert box visible if textarea text length is smaller than 10 chars
+  - [X] If form values are ok, alert box is hidden
   - [ ] OPTIONAL: Enable / Disable the Send button in a similar way the alert box works: Disable if there are errors. Enable if everthing is ok
 
 ## Hints
